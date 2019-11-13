@@ -1,0 +1,37 @@
+@media (min-width: 800px) and (max-width: 850px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #1C2331!important;
+    }
+
+    
+}
+
+.carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+
+
+.carousel-caption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: floralwhite;
+}
+.text {
+    font-family:'Montserrat';
+    text-decoration-style: solid;
+    font-size: 75px;
+    color: floralwhite;
+    letter-spacing: 10px;
+    text-decoration-style: double;
+    text-align: justify,center;
+}
+
+.text2 {
+
+    font-family: cursive;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: floralwhite;
+}
+
+.indonesia {
+    font-size: 90px;
+}

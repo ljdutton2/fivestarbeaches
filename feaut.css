@@ -1,0 +1,62 @@
+.description {
+    background-color: lawngreen;
+    color: lightsalmon;
+}
+
+p{
+    font-size: 20px;
+}
+
+p2 {
+font-size: 35px;
+  
+}
+
+.bali {
+    margin-top: 20px;
+    
+    font-size: 50px;
+}
+
+.indonesia {
+    font-size: 200%;
+    border-block-color: blue ;
+    text-emphasis: bold;
+
+    
+   
+}
+.beach {
+    margin-top: 70px;
+    inline-size: auto;
+    width: 450px;
+    height: 378px;
+
+
+
+}
+
+h3 {
+    font-size: 20px;
+    
+}
+
+
+.first {
+    margin-bottom: 200px;
+}
+
+
+.second {
+    margin-top: 250px;
+}
+
+.header {
+    font-size: 300px;
+}
+
+.reserve {
+    height: 40px;
+    width: 175px;
+    font-size: 20px;
+}
